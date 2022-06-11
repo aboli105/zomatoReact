@@ -1,0 +1,151 @@
+/* #add {
+    height: 420px;
+    width: 80%;
+    
+    margin-top: 50%;
+    margin-left: 11%;
+}
+.tile1{
+height:280 ;
+width: 30%;
+box-shadow: 10px 20px 10px grey;
+margin-left: 3%;
+float: left;
+margin-top: 3%;
+
+
+
+
+} 
+.btn {
+margin-left: 14%;}
+.tile2 > .item > img {
+height: 128px;
+
+}
+
+
+
+.dropdown {
+    margin-left: 24%;
+    margin-top: 33%;
+
+}
+select{
+height:45px;
+width:35%
+}
+.Restaurants{
+width:50%
+}
+
+
+
+
+
+
+
+
+#Quicksearch{
+
+width:90%;
+margin-left: 10%;
+margin-top: 5%;
+
+
+
+
+}
+#Quickheading{
+color:#194873;
+font-size: 30px;
+ font-family: Georgia, 'Times New Roman' ;
+  font-weight: bold;
+  display: block;
+  margin-left: 2%;
+}
+#Quickheading:hover{
+color:#0d2338;
+font-size: 35px;
+}
+#Quickheading2{
+color:#194873;
+font-size: 30px;
+ font-family: Georgia, 'Times New Roman' ;
+  font-weight: bold;
+  display: block;
+  
+}
+
+#Quicksubheading{
+line-height: 2;
+color:grey;
+font-size: 18px;
+margin-left: 2%;
+
+}
+#Quicksubheading2 {
+line-height: 2;
+color: grey;
+font-size: 18px;
+margin-left: 30px;
+}
+#tilecontainer{
+height: 180px;
+width :30%;
+float: left;
+margin-top: 2%;
+margin-left: 2%;
+box-shadow: 10px 20px 10px grey;
+border-radius: 9%;
+
+}
+#tilecontainer:hover{
+transform: scale(1.1);
+}
+
+.tilecomponent1{
+width:50%;
+float:left;
+height:180px;
+
+
+}
+
+.tilecomponent1:hover{
+transform: scale(1.1);
+}
+.tilecomponent1 > img{
+height: 180px;
+width:100%;
+
+}
+.adjust{
+height:280px !important
+}
+
+#tilecomponent2{
+
+width: 35%;
+float: left;
+height: 200px;
+margin-left: 7%;
+margin-top: 15%;
+
+}
+.item1 > img{
+height: 280px !important;
+width:30%
+
+}
+.componentheading{
+font-size: 25px;
+color: #194873;
+}
+.componentsubheading{
+font-size: 15px;
+color:grey;}
+.img5>img
+   { height: 280px;
+    width:30%}
+ */

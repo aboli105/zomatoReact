@@ -1,0 +1,169 @@
+html,body {
+    margin:0;
+    padding:0;
+    overflow-x:hidden;
+}
+/* light dark mode */
+.mydark{
+    background-color:black;
+    color:white ;
+ }
+ #btn{
+     background-color: #550303;
+     border:#550303;
+     margin-top:15px;
+
+ }
+#darkmode{
+    height:25px;
+    width:auto;
+    padding:0;
+    border-radius:10px;
+}
+header{
+  
+        height: 57px;
+    }
+
+/* coupon */
+#coupon{
+    height:300px;
+    width:500px;
+    z-index:100;
+    background-color: green;
+    background-repeat: no-repeat;
+    background-size:100% 300px;
+    visibility: hidden;
+    margin-top:5%;
+    background-image:url(https://i.ibb.co/3CH2hRh/coupon.webp);
+    float:left;
+    position: relative;
+    box-shadow: 10px 20px 10px black;
+}
+
+#cut{
+    background-color: gray;
+}
+
+#logoo{
+   
+    border-radius: 50%;
+    position: relative;
+    color:white;
+    font-weight: bolder;
+    height:50px;
+    width:50px;
+    margin-top:-10px;
+    animation:revolve 5s infinite;
+}
+
+#logoo > span{
+    margin-top:15px;
+    margin-left:15px;
+    position:absolute;
+    font-size:25px;
+}
+.social{
+    height:25px !important;
+    width:25px !important;
+    border-radius:50%;
+}
+.navbar-brand > #logo{
+    margin-left:25%;
+}
+.default{
+    color: white!important;
+    font-weight: bold;
+}
+.navbar-nav {
+    
+    font-size:16px; 
+  }
+.navbar{
+    background-color: rgb(21 95 102);
+    
+}
+.collapse >ul {
+    margin-left:26%;
+    color:white;  
+  }
+
+
+.container-fluid{
+    margin:0;
+    padding:0;
+}
+.main{
+    width:100%;
+}
+.div1{
+    
+    background-image: url("https://i.ibb.co/MNjGgDM/zomatto.webp");
+    background-repeat: no-repeat;
+    background-size:100% 620px;
+    color: white;
+    height:620px;
+    width:100%;
+    display: inline-block;
+    margin-top:-22px;
+
+}
+.header{
+    font-size: 25px;
+    float:left;
+    width:20%;
+    margin-top:2%;
+    margin-left:2%;
+    height:30px;
+    font-weight: bold;   
+    text-align: center;
+}
+.header1{
+    font-size: 22px;
+    width:60%;
+    margin-top:2%;
+    margin-left:17%;
+    height:30px;
+    float:left;
+    font-weight: bold;
+    text-align:right;
+}
+.subheader1{
+    float:left;
+    width:30%;
+    margin-top:0;
+    margin-left:3%;
+    height:30px;  
+}
+
+a {
+    text-decoration: none;
+    color:#337ab7;
+    
+}
+
+
+#heading{
+    height:auto;
+    width:auto;
+    color:white;
+    text-align:center;
+    margin-top:9%;;
+    margin-left:20%;
+    margin-right:20%;
+    font-weight: bolder;
+    font-size: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/* 
+footer----> */
+.footer{
+    width: 100%;
+    height: 40pxpx;
+    border: 1px black solid;
+}
+.footer p {
+    margin-top: 1%;
+    font-size:25px;
+    height:50Px;
+}
